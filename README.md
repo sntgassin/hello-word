@@ -2,9 +2,9 @@
 Mon premier Repository du tuto
 
 
-#Introduction
+## Introduction
 
-Activité 1. Regardez cette vidéo pour répondre aux questions suivantes
+### Activité 1. Regardez cette vidéo pour répondre aux questions suivantes
 
 <html lang="fr">
   <body>
