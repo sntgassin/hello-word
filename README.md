@@ -1,12 +1,19 @@
 # hello-world
 Mon premier Repository du tuto
 
-Salut !
-c'est moi, je viens d'écrire un truc nouveau dans la branche
+
+#Introduction
+
+Activité 1. Regardez cette vidéo pour répondre aux questions suivantes
+
+<html lang="fr">
+  <body>
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xhjgvhZQ-j8" frameborder="0" allow="accelerometer;       autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </body>
+</html>
 
 
-Ma première page
-
+Activité 2. Ecrire un premier programme
 
 <html lang="fr">
 <head>
@@ -22,7 +29,7 @@ Ma première page
 
 <body>
 
-  <iframe src="https://trinket.io/embed/python/90dec0c5a9" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+  <iframe src="https://trinket.io/embed/python/2cc54c06d0" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
   
 </body>
 </html>
