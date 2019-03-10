@@ -1,8 +1,8 @@
-# hello-world
-Mon premier Repository du tuto
+# Thème 1 - Internet
 
+## Activités
 
-## Introduction
+<i class="fas fa-laptop-code"></i>
 
 ### Activité 1. Regardez cette vidéo pour répondre aux questions suivantes
 
