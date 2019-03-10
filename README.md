@@ -12,7 +12,7 @@ Mon premier Repository du tuto
   </body>
 </html>
 
-# Activité 2. Manipuler un premier programme avec des blocks de code
+### Activité 2. Manipuler un premier programme avec des blocks de code
 
 <html lang="fr">
   <body>
@@ -20,8 +20,8 @@ Mon premier Repository du tuto
   </body>
 </html>
 
-
-# Activité 3. Ecrire un premier programme
+<i class="fa fa-play"></i>
+### Activité 3. Ecrire un premier programme
 
 <html lang="fr">
 <head>
