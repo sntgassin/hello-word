@@ -12,8 +12,16 @@ Mon premier Repository du tuto
   </body>
 </html>
 
+# Activité 2. Manipuler un premier programme avec des blocks de code
 
-Activité 2. Ecrire un premier programme
+<html lang="fr">
+  <body>
+    <iframe src="https://trinket.io/embed/blocks/19c4a55abb" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+  </body>
+</html>
+
+
+# Activité 3. Ecrire un premier programme
 
 <html lang="fr">
 <head>
